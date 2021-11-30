@@ -8,6 +8,9 @@
 
 - 現在FSWorkbenchのソースコードは公開していません。
 
+***
+This software is a preview/under development version of [FSWorkbench](https://github.com/yamashita-software-works/FSWorkbench/releases).
+
 FSWorkbench is a tool for browse and simple-operation files, directories and file system information on local disk volumes that with/without drive letter. Not a "Filer" for comfortable user experience.
 
 
