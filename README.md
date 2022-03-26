@@ -12,6 +12,7 @@
 ### 動作環境
 
 Windows 7 (x64,x86)   
+Windows 8.1 (x64,x86)   
 Windows 10 (x64,x86)   
 Windows 11 (x64)    
 
