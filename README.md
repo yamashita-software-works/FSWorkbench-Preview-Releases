@@ -10,10 +10,14 @@ FSWorkbenchは、コンピュータのハードディスクなどローカルス
 Version 4.0では、メインフレームウィンドウを旧来のMDIスタイルからタブ切り替えのTDIウィンドウに変更しました。
 伝統的なWin32アプリケーションで、WinUIの様な最新のスキーム、デザインには対応していませんが、Windows 7、Windows 8.1やGUIが構成されたWindows RE/PEといった環境でも動作します。
 
-
 **注:** 現状ではFSWorkbenchはオープンソースではありません。
 
 **NOTICE:** FSWorkbench is not open source. You will find here the builds only. 
+
+### 4.0.733.5 Preview
+
+- BugFix
+- 一部リソースを日本語化しました。
 
 ### 実行環境
 
