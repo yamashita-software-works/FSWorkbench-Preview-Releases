@@ -14,10 +14,11 @@ Version 4.0では、メインフレームウィンドウを旧来のMDIスタイ
 
 **NOTICE:** FSWorkbench is not open source. You will find here the builds only. 
 
-### 4.0.733.5 Preview
+### 4.0.735.0 Preview
 
-- BugFix
-- 一部リソースを日本語化しました。
+- ナビゲーションペインのアイコンを変更しました。
+- その他、細かいバグ修正。
+- ソースコードの整理。
 
 ### 実行環境
 
