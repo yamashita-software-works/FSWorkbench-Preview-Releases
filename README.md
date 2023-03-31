@@ -17,8 +17,9 @@ Version 4.0では、メインフレームウィンドウを旧来のMDIスタイ
 ### 4.0.744.0 Preview
 
 - ボリュームナビゲーションペインを更新。
-  - 物理ボリューム,ルートディレクトリ項目を追加。
-  - 情報行を追加。
+  - 物理ドライブを選択する項目をオプションで追加。
+  - ルートディレクトリを選択する項目をオプションで追加。
+  - ボリューム項目にも情報を表示できるオプションで追加。
   - ドライブ表示モード時の改善。
 - ファイルの削除時、確認ダイアログを改善中。
   - 削除エラーを無視して削除を続行するオプション。
@@ -74,7 +75,7 @@ FSWorkbench自身が使用するレジストリキーは以下の通りです。
 
 - 本ソフトウェアの著作権は作者が留保します。
 
-  Copyright (C) 2015-2022 山下 克宏 (YAMASHITA Katsuhiro), Yamashita Software Works
+  Copyright (C) 2015-2023 山下 克宏 (YAMASHITA Katsuhiro), Yamashita Software Works
 
 ***
 This software is a preview/under development version.
