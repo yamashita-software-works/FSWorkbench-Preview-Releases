@@ -1,7 +1,10 @@
 # FSWorkbench
 ### Version 4.0 Preview
 
-現在はプレビュー版です。現状の仕様やデザインは変更・廃止される可能性があります。
+   
+正式版の場所でBeta版の公開を始めました。   
+https://github.com/yamashita-software-works/FSWorkbench
+   
 
 FSWorkbenchは、コンピュータのハードディスクなどローカルストレージに含まれるファイルやディレクトリをGUIで表示・操作をするアプリケーションです。
 ファイルシステムの情報を表示する他、コピー,移動,削除など基本的な操作も行えます。
