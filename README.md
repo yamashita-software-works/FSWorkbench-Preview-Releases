@@ -3,8 +3,8 @@
 
    
 > **Note**   
-正式版の場所でBeta版の公開を始めました。   
-https://github.com/yamashita-software-works/FSWorkbench
+>正式版の場所でBeta版の公開を始めました。   
+>https://github.com/yamashita-software-works/FSWorkbench
    
 
 FSWorkbenchは、コンピュータのハードディスクなどローカルストレージに含まれるファイルやディレクトリをGUIで表示・操作をするアプリケーションです。
