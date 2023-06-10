@@ -2,7 +2,7 @@
 ### Version 4.0 Preview
 
    
-> **Note:**   
+> **Note**   
 正式版の場所でBeta版の公開を始めました。   
 https://github.com/yamashita-software-works/FSWorkbench
    
